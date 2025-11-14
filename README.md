@@ -73,7 +73,7 @@ The main dashboard showing key controls, model selection, and user options.
 
 ### 💬 Chat Interface
 A comprehensive chat interface allowing users to enter text, record voice messages, upload files, select AI models, and initiate new conversations.
-![role_jarvis_say_hi](screenshot/role_jarvis_say_hi.png)
+![select_role](screenshot/select_role.png)
 
 ## 📚 Reference
 - Llama-3.2-3B-Instruct: [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
