@@ -28,7 +28,8 @@ A high-performance AI Q&A platform powered by **LangChain**, featuring a complet
 Combines:
 - Retrieved documents  
 - User-provided files  
-- Real-time search data  
+- Real-time search data
+  
 Produces context-enriched prompts for accurate and reliable responses.
 
 ### 🔍 Optimized Chunking & Semantic Search
